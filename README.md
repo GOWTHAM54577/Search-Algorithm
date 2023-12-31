@@ -94,7 +94,7 @@ else:
     print("Element found at index: ",t)
 ```
 ## Sample Input and Output
-![OUTPUT](https://github.com/GOWTHAM54577/Search-Algorithm/assets/144589420/dc1f233b-a635-426d-b15a-4b15afb98c86)
+![OUTPUT](https://github.com/GOWTHAM54577/Search-Algorithm/assets/144589420/661e7823-de46-46d5-9eec-01f30b8f113d)
 ![OUTPUT](https://github.com/GOWTHAM54577/Search-Algorithm/assets/144589420/245d8904-4031-4974-adfc-33a11cc78fdc)
 ![OUTPUT](https://github.com/GOWTHAM54577/Search-Algorithm/assets/144589420/1035ea1b-2834-4197-a182-0e33c65639f6)
 ## Result
